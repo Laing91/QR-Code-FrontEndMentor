@@ -1,0 +1,30 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.qr-image {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    width: 275px;
+    padding: 15px;
+    border-radius: 5%;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.qr {
+    border-radius: 5%;
+}
+
+.text-one {
+    font-weight: 1000;
+    font-size: 20px;
+}
+
+.doubleText {
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
